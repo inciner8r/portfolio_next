@@ -36,7 +36,7 @@ export default function Intro() {
             }}
           >
             <Image
-              src="https://media.licdn.com/dms/image/D4D03AQFYJGuXI1qOuQ/profile-displayphoto-shrink_200_200/0/1707998612606?e=1719446400&v=beta&t=VaKjVujijbz72oEZzArmZUvlnAydcZaEkKEq6YWyIzY"
+              src="https://media.licdn.com/dms/image/D4D03AQFYJGuXI1qOuQ/profile-displayphoto-shrink_400_400/0/1707998612606?e=1726099200&v=beta&t=R9KdcJvdD_LdO_uXARqjnFaOWlvC-uTmPprMnMijnms"
               alt="Ricardo portrait"
               width="192"
               height="192"
